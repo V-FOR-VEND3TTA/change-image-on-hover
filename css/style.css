@@ -1,0 +1,8 @@
+.image-swap img:nth-child(1) {
+  position: absolute;
+  transition: 1.5s;
+}
+
+.image-swap img:nth-child(1):hover {
+  opacity: 0;
+}
